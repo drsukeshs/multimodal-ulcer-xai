@@ -1,7 +1,7 @@
 # multimodal-ulcer-xai
 ![Slide1](https://github.com/user-attachments/assets/aeef9def-dc79-49e9-afee-fb9e8f865836)
 
-Multimodal deep learning pipeline to classify common wounds in surgical practice
+Multimodal deep learning pipeline to classify common wounds in surgical practice, with implementation of SHAP for explainability of models predictions
 
 ## Overview
 
