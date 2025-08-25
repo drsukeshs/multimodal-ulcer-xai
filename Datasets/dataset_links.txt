@@ -1,0 +1,4 @@
+Datasets:
+Dataset: 
+CSV : https://www.kaggle.com/datasets/therealsukeshs/uuuuuiii/data 
+Images: https://www.kaggle.com/datasets/therealsukeshs/ulcer-dataset-kaggle1
