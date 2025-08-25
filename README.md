@@ -3,6 +3,8 @@
 
 Multimodal deep learning pipeline to classify common wounds in surgical practice, with implementation of SHAP for explainability of models predictions
 
+Disclaimer: The model, code or recommendations provided are for educational and research purposes only. It is not intended for clinical use in any capacity without further validation and regulatory approval.
+
 ## Overview
 
 This project demonstrates a multimodal deep learning pipeline for classifying skin ulcers using tabular clinical data and wound images.
